@@ -4,7 +4,7 @@
 #
 Name     : R-nortest
 Version  : 1.0.4
-Release  : 19
+Release  : 20
 URL      : https://cran.r-project.org/src/contrib/nortest_1.0-4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/nortest_1.0-4.tar.gz
 Summary  : Tests for Normality
